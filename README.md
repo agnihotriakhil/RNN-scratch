@@ -1,4 +1,4 @@
-# A Recurrent Neural Network (RNN) From Scratch
+# RNN From Scratch
 
 ## Usage
 
